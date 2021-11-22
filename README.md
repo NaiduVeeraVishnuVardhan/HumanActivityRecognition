@@ -1,0 +1,2 @@
+# HumanActivityRecognition
+Research Project A
